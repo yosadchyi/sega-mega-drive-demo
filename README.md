@@ -2,5 +2,5 @@
 
 This project uses SGDK and shows how to create simple "game" where hero can move left and right and can even JUMP!
 
-Use left/right to move and "A" for jumping. Engoy!
+Use left/right to move and "A" for jumping. Enjoy!
 
